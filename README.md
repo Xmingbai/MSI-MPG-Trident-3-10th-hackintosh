@@ -1,5 +1,7 @@
 # MSI-MPG-Trident-3-10th-hackintosh
 
+微星 海皇戟3 10代 
+
 # 本机硬件配置
 CPU：i5-10500
 
